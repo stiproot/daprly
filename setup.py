@@ -10,7 +10,7 @@ author_email = "stipcich.simon@gmail.com"
 url = "https://github.com/stiproot/daprly"
 license = "MIT"
 keywords = ["python", "package", "dapr", "beta"]
-version = "1.0.0"
+version = "1.0.1"
 
 with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
@@ -38,6 +38,6 @@ setup(
     classifiers=[
         "Intended Audience :: Developers",
         "License :: OSI Approved :: MIT License",
-        "Programming Language :: Python :: 3.11",
+        "Programming Language :: Python :: 3.12",
     ],
 )

@@ -1,1 +1,1 @@
-from .dapr_wrapper import *
+from .dapr_client import *
